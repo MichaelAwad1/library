@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1513973480 source:c:\users\lenovo\desktop\final library\final library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"structs.h"
+	"library_functions.h"
+
+1513978447 c:\users\lenovo\desktop\final library\final library\structs.h
+
+1513979162 c:\users\lenovo\desktop\final library\final library\library_functions.h
+

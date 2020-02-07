@@ -1,0 +1,13 @@
+Harry Potter part 1, JK Rowling, Pearson, 1111111111, 10/12/2002, 20, 15, Thriller
+
+Harry Potter part 2, jk heqheqheq, Person, 2222222222, 30/12/2004, 20, 5, Thriller
+
+Harry Potter part 3, jk rowling, Pearson, 3333333333, 12/12/2006, 20, 3, Thriller
+
+Game of thrones, George R.R martin, Top publisher, 4444444444, 7/12/2000, 20, 11, Action
+
+Lord of rings, jk rowling, Top publisher, 48796456, 5555555555, 6/10/1996, 20, 3, Thriller
+
+Oliver Twist, Charles Dickens, Longman, 6666666666, 1/4/1837, 20, 5, Drama
+
+Murder on the orient express, Agatha Christie, Top publisher, 7777777777, 10/5/1950, 20, 0, Crime
